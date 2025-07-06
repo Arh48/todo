@@ -6,5 +6,9 @@
   {
     "done": true,
     "text": "add pok\u00e9mon selection"
+  },
+  {
+    "text": "add battling",
+    "done": false
   }
 ]
