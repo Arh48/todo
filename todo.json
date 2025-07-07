@@ -12,7 +12,7 @@
     "text": "add battling"
   },
   {
-    "done": false,
+    "done": true,
     "text": "add effective or not"
   },
   {
@@ -32,7 +32,7 @@
     "text": "Something that makes custom text work. use character code"
   },
   {
-    "text": "inputs level and pokemon, returns HP",
-    "done": false
+    "done": false,
+    "text": "inputs level and pokemon, returns HP"
   }
 ]
