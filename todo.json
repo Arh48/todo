@@ -24,7 +24,11 @@
     "text": "script that inputs move id and returns type and power and damage"
   },
   {
-    "text": "inputs PkMn ID and boolean (True for front, False for back): returns sprite image for pokemon",
+    "done": false,
+    "text": "inputs PkMn ID and boolean (True for front, False for back): returns sprite image for pokemon"
+  },
+  {
+    "text": "Something that makes custom text work. use character code",
     "done": false
   }
 ]
