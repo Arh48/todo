@@ -12,7 +12,11 @@
     "text": "add battling"
   },
   {
-    "text": "add effective or not",
+    "done": false,
+    "text": "add effective or not"
+  },
+  {
+    "text": "add a script with input PkMn ID that returns types and PkNn name",
     "done": false
   }
 ]
