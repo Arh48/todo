@@ -8,7 +8,11 @@
     "text": "add pok\u00e9mon selection"
   },
   {
-    "text": "add battling",
+    "done": false,
+    "text": "add battling"
+  },
+  {
+    "text": "add effective or not",
     "done": false
   }
 ]
