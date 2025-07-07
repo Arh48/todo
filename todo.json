@@ -28,7 +28,11 @@
     "text": "inputs PkMn ID and boolean (True for front, False for back): returns sprite image for pokemon"
   },
   {
-    "text": "Something that makes custom text work. use character code",
+    "done": false,
+    "text": "Something that makes custom text work. use character code"
+  },
+  {
+    "text": "inputs level and pokemon, returns HP",
     "done": false
   }
 ]
