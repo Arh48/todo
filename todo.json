@@ -16,7 +16,11 @@
     "text": "add effective or not"
   },
   {
-    "text": "add a script with input PkMn ID that returns types and PkNn name",
+    "done": false,
+    "text": "add a script with input PkMn ID that returns types and PkNn name"
+  },
+  {
+    "text": "script that inputs move id and returns type and power and damage",
     "done": false
   }
 ]
