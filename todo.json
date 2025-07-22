@@ -34,5 +34,9 @@
   {
     "done": false,
     "text": "inputs level and pokemon, returns HP"
+  },
+  {
+    "text": "create the maps for the reigon, this includes all towns and insides of towns: main priority",
+    "done": false
   }
 ]
