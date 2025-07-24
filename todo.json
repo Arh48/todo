@@ -1,46 +1,46 @@
 [
   {
-    "done": true,
-    "text": "add prof orr"
+    "text": "add prof orr",
+    "done": true
   },
   {
-    "done": true,
-    "text": "add pok\u00e9mon selection"
+    "text": "add pok\u00e9mon selection",
+    "done": true
   },
   {
-    "done": false,
-    "text": "add battling"
+    "text": "add battling",
+    "done": false
   },
   {
-    "done": true,
-    "text": "add effective or not"
+    "text": "add effective or not",
+    "done": true
   },
   {
-    "done": false,
-    "text": "add a script with input PkMn ID that returns types and PkNn name"
+    "text": "add a script with input PkMn ID that returns types and PkNn name",
+    "done": false
   },
   {
-    "done": false,
-    "text": "script that inputs move id and returns type and power and damage"
+    "text": "script that inputs move id and returns type and power and damage",
+    "done": false
   },
   {
-    "done": false,
-    "text": "inputs PkMn ID and boolean (True for front, False for back): returns sprite image for pokemon"
+    "text": "inputs PkMn ID and boolean (True for front, False for back): returns sprite image for pokemon",
+    "done": false
   },
   {
-    "done": false,
-    "text": "Something that makes custom text work. use character code"
+    "text": "Something that makes custom text work. use character code",
+    "done": false
   },
   {
-    "done": false,
-    "text": "inputs level and pokemon, returns HP"
+    "text": "inputs level and pokemon, returns HP",
+    "done": false
   },
   {
-    "done": false,
-    "text": "create the maps for the reigon, this includes all towns and insides of towns: main priority"
+    "text": "create the maps for the reigon, this includes all towns and insides of towns: main priority",
+    "done": false
   },
   {
-    "text": "battke scripts",
+    "text": "battle scripts",
     "done": false
   }
 ]
